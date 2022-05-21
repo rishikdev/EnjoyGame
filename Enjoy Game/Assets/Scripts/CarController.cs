@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    public const float MAXIMUM_SPEED = 50;
+    [SerializeField] private float MAXIMUM_SPEED;
 
     private float horizontalInput;
     private float verticalInput;
