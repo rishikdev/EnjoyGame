@@ -1,0 +1,11 @@
+Model Information:
+* title:	City Compact '95 - Low poly model
+* source:	https://sketchfab.com/3d-models/city-compact-95-low-poly-model-122a22d210234596ad23623588d0d166
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "City Compact '95 - Low poly model" (https://sketchfab.com/3d-models/city-compact-95-low-poly-model-122a22d210234596ad23623588d0d166) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
