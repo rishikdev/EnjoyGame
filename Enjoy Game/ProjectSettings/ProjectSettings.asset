@@ -153,7 +153,9 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.Enjoy-Game
+    iPhone: com.DefaultCompany.Enjoy-Game
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -800,7 +802,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   cloudProjectId: a31387f1-6a70-4c99-ad9c-10466f334dd0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
