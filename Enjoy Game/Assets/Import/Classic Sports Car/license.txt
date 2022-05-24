@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classic american sportcar '57 - Low poly model
+* source:	https://sketchfab.com/3d-models/classic-american-sportcar-57-low-poly-model-a6840c4f4b4b45ca805d0f76e809f042
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classic american sportcar '57 - Low poly model" (https://sketchfab.com/3d-models/classic-american-sportcar-57-low-poly-model-a6840c4f4b4b45ca805d0f76e809f042) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
